@@ -14,3 +14,7 @@
   
 [https://search.yibook.org/](https://search.yibook.org/) <br>
 [https://onehu.xyz/](https://onehu.xyz/)
+
+* 全网资源搜索
+
+[http://uukk2.cn](http://uukk2.cn)
