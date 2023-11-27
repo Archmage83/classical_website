@@ -18,3 +18,8 @@
 * 全网资源搜索
 
 [http://uukk2.cn](http://uukk2.cn)
+
+
+* 追剧网站
+
+[NO视频](https://www.novipnoad.net)
