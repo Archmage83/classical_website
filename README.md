@@ -12,12 +12,12 @@
 
 * 小说文章网站
   
-[https://search.yibook.org/](https://search.yibook.org/) <br>
-[https://onehu.xyz/](https://onehu.xyz/)
+[易书 书籍检索](https://search.yibook.org/) <br>
+[我不是盐神](https://onehu.xyz/)
 
 * 全网资源搜索
 
-[http://uukk2.cn](http://uukk2.cn)
+[全网盘搜索](http://uukk2.cn)
 
 
 * 追剧网站
