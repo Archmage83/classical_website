@@ -23,3 +23,6 @@
 * 追剧网站
 
 [NO视频](https://www.novipnoad.net)
+
+* 在线录屏网站
+[https://gemoo.com/tools/online-recorder/](https://gemoo.com/tools/online-recorder/)
