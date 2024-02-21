@@ -25,4 +25,10 @@
 [NO视频](https://www.novipnoad.net)
 
 * 在线录屏网站
+  
 [https://gemoo.com/tools/online-recorder/](https://gemoo.com/tools/online-recorder/)
+
+* 全网解析
+
+爱奇艺，优酷，腾讯等全网视频解析
+[https://vip.superso.top/](https://vip.superso.top/)
