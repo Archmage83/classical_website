@@ -18,6 +18,7 @@
 * 全网资源搜索
 
 [全网盘搜索](http://uukk2.cn)
+[毕方铺](https://www.iizhi.cn)
 
 
 * 追剧网站
@@ -32,3 +33,8 @@
 
 爱奇艺，优酷，腾讯等全网视频解析
 [https://vip.superso.top/](https://vip.superso.top/)
+
+
+* 游戏下载
+
+[switch游戏，PC游戏，PS游戏免费下载](https://www.gamer520.com)
