@@ -28,7 +28,7 @@
 * 影视类
 
 [NO视频](https://www.novipnoad.net)<br>
-[爱奇艺，优酷，腾讯等全网视频解析](https://vip.superso.top/)
+[爱奇艺，优酷，腾讯等全网视频解析](https://vip.superso.top/)<br>
 [看全世界的电视频道](https://www.cxtvlive.com)
 
 
