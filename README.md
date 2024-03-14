@@ -15,7 +15,8 @@
 * 小说文章类
   
 [易书 书籍检索](https://search.yibook.org/) <br>
-[我不是盐神](https://onehu.xyz/)
+[我不是盐神](https://onehu.xyz/)<br>
+[24h搜书网](https://24hbook.com/)
 
 
 * 资源类
