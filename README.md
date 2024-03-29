@@ -41,7 +41,8 @@
 
 * 游戏类
 
-[switch游戏，PC游戏，PS游戏免费下载](https://www.gamer520.com)
+[switch游戏，PC游戏，PS游戏免费下载](https://www.gamer520.com)<br>
+[PC游戏，单机游戏等多种游戏白嫖](https://www.flysheep6.com/)
 
 
 * 广播音乐类
