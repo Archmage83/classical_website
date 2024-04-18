@@ -16,13 +16,15 @@
   
 [易书 书籍检索](https://search.yibook.org/) <br>
 [我不是盐神](https://onehu.xyz/)<br>
-[24h搜书网](https://24hbook.com/)
+[24h搜书网](https://24hbook.com/) <br>
+[书书读小说](https://www.shushudu.com/)
 
 
 * 资源类
 
 [全网盘搜索](http://uukk2.cn)<br>
-[毕方铺](https://www.iizhi.cn) **(需购买金币)**
+[毕方铺](https://www.iizhi.cn) **(需购买金币)** <br>
+[羚羊阁资源搜索](https://files.ptger.cn/)
 
 
 
@@ -48,3 +50,8 @@
 * 广播音乐类
 
 [思奥FM](https://sao.fm)
+
+
+* 学习类
+
+[单词森林(背诵英语单词)](https://wordforest.cn)
