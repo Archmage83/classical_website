@@ -17,7 +17,8 @@
 [易书 书籍检索](https://search.yibook.org/) <br>
 [我不是盐神](https://onehu.xyz/)<br>
 [24h搜书网](https://24hbook.com/) <br>
-[书书读小说](https://www.shushudu.com/)
+[书书读小说](https://www.shushudu.com/)<br>
+[飞速中文网](https://m.feibzw.com)
 
 
 * 资源类
@@ -38,7 +39,9 @@
 * 工具类
   
 [在线录屏网站](https://gemoo.com/tools/online-recorder/)<br>
-[扒网站工具](http://www.templatespider.zvo.cn)
+[扒网站工具](http://www.templatespider.zvo.cn)<br>
+[千盒工具](https://1000tool.com/)<br>
+[即时热点网](https://nowhots.com)
 
 
 
