@@ -61,10 +61,16 @@
 [单词森林(背诵英语单词)](https://wordforest.cn)
 
 
-* Mac软件网站
+* Mac破解软件网站
 
 [xclient](https://xclient.info)<br>
 [马可菠萝](https://www.macbl.com)<br>
 [Macwk](https://macwk.cn)<br>
 [Mac8k](https://www.mac8k.com)<br>
-[Appstorrent](https://appstorrent.ru)
+[Appstorrent](https://appstorrent.ru)<br>
+[Mac帮](https://macbang.net)<br>
+[digit77(密码digit77.com)](https://www.digit77.com)<br>
+[imacapp](https://www.imacapp.cn)<br>
+[潘多拉盒子](https://www.inpandora.com)<br>
+[haxmac](https://haxmac.cc)<br>
+[元婴mac软件站](https://maczz.net)<br>
