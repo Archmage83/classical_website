@@ -2,15 +2,11 @@
 精品网站收集
 
 
-* 第一试卷网
+* 学习考试类
   
-[https://www.shijuan1.com/](https://www.shijuan1.com/)
-
-
-* 考公真题库
-  
-[https://www.gkzenti.cn](https://www.gkzenti.cn)
-
+[第一试卷网](https://www.shijuan1.com/)<br>
+[考公真题库](https://www.gkzenti.cn)<br>
+---
 
 * 小说文章类
   
@@ -18,15 +14,15 @@
 [我不是盐神](https://onehu.xyz/)<br>
 [24h搜书网](https://24hbook.com/) <br>
 [书书读小说](https://www.shushudu.com/)<br>
-[飞速中文网](https://m.feibzw.com)
-
+[飞速中文网](https://m.feibzw.com)<br>
+---
 
 * 资源类
 
 [全网盘搜索](http://uukk2.cn)<br>
 [毕方铺](https://www.iizhi.cn) **(需购买金币)** <br>
-[羚羊阁资源搜索](https://files.ptger.cn/)
-
+[羚羊阁资源搜索](https://files.ptger.cn/)<br>
+---
 
 
 * 影视类
@@ -44,7 +40,7 @@
 [火狼影院](https://www.huolang.pro)<br>
 [胖虎影院](https://panghu.lol)<br>
 [人人影视美剧](https://yyets.com)<br>
-
+---
 
 
 * 工具类
@@ -53,24 +49,23 @@
 [扒网站工具](http://www.templatespider.zvo.cn)<br>
 [千盒工具](https://1000tool.com/)<br>
 [即时热点网](https://nowhots.com)
-
-
+---
 
 * 游戏类
 
 [switch游戏，PC游戏，PS游戏免费下载](https://www.gamer520.com)<br>
 [PC游戏，单机游戏等多种游戏白嫖](https://www.flysheep6.com/)
-
+---
 
 * 广播音乐类
 
-[思奥FM](https://sao.fm)
-
+[思奥FM](https://sao.fm)<br>
+---
 
 * 学习类
 
-[单词森林(背诵英语单词)](https://wordforest.cn)
-
+[单词森林(背诵英语单词)](https://wordforest.cn)<br>
+---
 
 * Mac破解软件网站
 
@@ -85,3 +80,4 @@
 [潘多拉盒子](https://www.inpandora.com)<br>
 [haxmac](https://haxmac.cc)<br>
 [元婴mac软件站](https://maczz.net)<br>
+---
