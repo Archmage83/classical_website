@@ -48,7 +48,8 @@
 [在线录屏网站](https://gemoo.com/tools/online-recorder/)<br>
 [扒网站工具](http://www.templatespider.zvo.cn)<br>
 [千盒工具](https://1000tool.com/)<br>
-[即时热点网](https://nowhots.com)
+[即时热点网](https://nowhots.com)<br>
+[暖糖壁纸](https://www.nuantang.net)
 ---
 
 * 游戏类
