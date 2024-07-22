@@ -112,5 +112,6 @@
 
 * 其他类
 
+[字幕截图生成器](https://fake-screenshot-tau.vercel.app/)<br>
 [中文性教育资源网](https://res.knowsex.org/)
 ---
