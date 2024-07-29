@@ -2,7 +2,7 @@
 精品网站收集
 
 
-* 学习考试类
+### 学习考试类
   
 [第一试卷网](https://www.shijuan1.com/)<br>
 [考公真题库](https://www.gkzenti.cn)<br>
@@ -11,7 +11,7 @@
 
 ---
 
-* 小说文章类
+### 小说文章类
   
 [易书 书籍检索](https://search.yibook.org/) <br>
 [我不是盐神](https://onehu.xyz/)<br>
@@ -21,7 +21,7 @@
 
 ---
 
-* 资源类
+### 资源类
 
 [全网盘搜索](http://uukk2.cn)<br>
 [毕方铺](https://www.iizhi.cn) **(需购买金币)** <br>
@@ -41,7 +41,7 @@
 ---
 
 
-* 影视类
+### 影视类
 
 [NO视频](https://www.novipnoad.net)<br>
 [爱奇艺，优酷，腾讯等全网视频解析](https://vip.superso.top/)<br>
@@ -61,7 +61,7 @@
 ---
 
 
-* 工具类
+### 工具类
   
 [在线录屏网站](https://gemoo.com/tools/online-recorder/)<br>
 [扒网站工具](http://www.templatespider.zvo.cn)<br>
@@ -77,21 +77,21 @@
 
 ---
 
-* 游戏类
+### 游戏类
 
 [switch游戏，PC游戏，PS游戏免费下载](https://www.gamer520.com)<br>
 [PC游戏，单机游戏等多种游戏白嫖](https://www.flysheep6.com/)<br>
 
 ---
 
-* 广播音乐类
+### 广播音乐类
 
 [思奥FM](https://sao.fm)<br>
 
 ---
 
 
-* Mac破解软件网站
+### Mac破解软件网站
 
 [xclient](https://xclient.info)<br>
 [马可菠萝](https://www.macbl.com)<br>
@@ -107,7 +107,7 @@
 
 ---
 
-* 字体图标类
+### 字体图标类
 
 [英文字体网站](https://www.fontshare.com/?categories=Serif)<br>
 [icon资源网站](https://yesicon.app/)<br>
@@ -117,19 +117,19 @@
 
 ---
 
-* 破解类
+### 破解类
 
 [激活windows，office](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
 
 ---
 
-* 开发类
+### 开发类
 
 [claude  AI开发提示库](https://docs.anthropic.com/zh-CN/docs/intro-to-claude)<br>
 
 ---
 
-* 其他类
+### 其他类
 
 [字幕截图生成器](https://fake-screenshot-tau.vercel.app/)<br>
 [中文性教育资源网](https://res.knowsex.org/)<br>
