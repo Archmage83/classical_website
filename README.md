@@ -8,6 +8,7 @@
 [考公真题库](https://www.gkzenti.cn)<br>
 [做题客](https://www.zuotike.com/)<br>
 [单词森林(背诵英语单词)](https://wordforest.cn)<br>
+
 ---
 
 * 小说文章类
@@ -17,6 +18,7 @@
 [24h搜书网](https://24hbook.com/) <br>
 [书书读小说](https://www.shushudu.com/)<br>
 [飞速中文网](https://m.feibzw.com)<br>
+
 ---
 
 * 资源类
@@ -28,6 +30,14 @@
 [资源网](https://heeee.com/)<br>
 [一糖导航](https://iitang.com/#google_vignette)<br>
 [西部落](https://www.xibuluo.com/)<br>
+[奇乐搜](https://www.qileso.com/)<br>
+[人人影视网](https://www.rrdynb.com/index.html)<br>
+[橘子盘搜](https://www.nmme.xyz/)<br>
+[秒搜](https://miaosou.fun/) $\color{orange}{推荐}$<br>
+[皮卡搜索](https://www.pikaso.top/) $\color{orange}{推荐}$<br>
+[咔帕搜索](https://www.cuppaso.com/)<br>
+[学霸盘](https://www.xuebapan.com) $\color{orange}{推荐}$<br>
+
 ---
 
 
@@ -46,7 +56,8 @@
 [火狼影院](https://www.huolang.pro)<br>
 [胖虎影院](https://panghu.lol)<br>
 [人人影视美剧](https://yyets.com)<br>
-[新电影导航](https://www.xdy.me/)
+[新电影导航](https://www.xdy.me/)<br>
+
 ---
 
 
@@ -62,17 +73,21 @@
 [在线智能配色](https://www.realtimecolors.com)<br>
 [AI聚合网站](https://www.toolify.ai/zh/category)<br>
 [免费AI网站](https://freeaihunter.com)<br>
+[爱奇艺万能联播](http://static-s.iqiyi.com/wnbf/get.html)<br>
+
 ---
 
 * 游戏类
 
 [switch游戏，PC游戏，PS游戏免费下载](https://www.gamer520.com)<br>
-[PC游戏，单机游戏等多种游戏白嫖](https://www.flysheep6.com/)
+[PC游戏，单机游戏等多种游戏白嫖](https://www.flysheep6.com/)<br>
+
 ---
 
 * 广播音乐类
 
 [思奥FM](https://sao.fm)<br>
+
 ---
 
 
@@ -89,6 +104,7 @@
 [潘多拉盒子](https://www.inpandora.com)<br>
 [haxmac](https://haxmac.cc)<br>
 [元婴mac软件站](https://maczz.net)<br>
+
 ---
 
 * 字体图标类
@@ -98,20 +114,24 @@
 [Open Doodles 免费插画网站](https://opendoodles.com/)<br>
 [vectorcraftr 免费插画网站](https://vectorcraftr.com/)<br>
 [字体搬运工](https://font.sucai999.com/)<br>
+
 ---
 
 * 破解类
 
 [激活windows，office](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
+
 ---
 
 * 开发类
 
 [claude  AI开发提示库](https://docs.anthropic.com/zh-CN/docs/intro-to-claude)<br>
+
 ---
 
 * 其他类
 
 [字幕截图生成器](https://fake-screenshot-tau.vercel.app/)<br>
-[中文性教育资源网](https://res.knowsex.org/)
+[中文性教育资源网](https://res.knowsex.org/)<br>
+
 ---
