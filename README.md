@@ -87,6 +87,9 @@
 ### 广播音乐类
 
 [思奥FM](https://sao.fm)<br>
+[musicenc](https://www.musicenc.com/)<br>
+[5sing](https://5sing.kugou.com/index.html)<br>
+[soundstripe](https://www.soundstripe.com/)<br>
 
 ---
 
