@@ -74,6 +74,7 @@
 [AI聚合网站](https://www.toolify.ai/zh/category)<br>
 [免费AI网站](https://freeaihunter.com)<br>
 [爱奇艺万能联播](http://static-s.iqiyi.com/wnbf/get.html)<br>
+[免费字帖练习](https://paper.z2h.cn/)<br>
 
 ---
 
