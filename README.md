@@ -76,6 +76,7 @@
 [爱奇艺万能联播](http://static-s.iqiyi.com/wnbf/get.html)<br>
 [免费字帖练习](https://paper.z2h.cn/)<br>
 [塔条工具箱](https://www.tatiao.com/)<br>
+[AI创富导航](https://ai.itzb.net/)<br>
 
 ---
 
