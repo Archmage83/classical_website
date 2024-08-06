@@ -71,13 +71,18 @@
 [即时热点网](https://nowhots.com)<br>
 [暖糖壁纸](https://www.nuantang.net)<br>
 [在线编辑照片](https://shoteasy.fun/zh-CN/)<br>
-[AI网站生成](https://butternut.ai/)<br>
 [在线智能配色](https://www.realtimecolors.com)<br>
-[AI聚合网站](https://www.toolify.ai/zh/category)<br>
-[免费AI网站](https://freeaihunter.com)<br>
 [爱奇艺万能联播](http://static-s.iqiyi.com/wnbf/get.html)<br>
 [免费字帖练习](https://paper.z2h.cn/)<br>
 [塔条工具箱](https://www.tatiao.com/)<br>
+
+---
+
+### AI类
+
+[AI网站生成](https://butternut.ai/)<br>
+[AI聚合网站](https://www.toolify.ai/zh/category)<br>
+[免费AI网站](https://freeaihunter.com)<br>
 [AI创富导航](https://ai.itzb.net/)<br>
 
 ---
