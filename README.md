@@ -75,6 +75,7 @@
 [爱奇艺万能联播](http://static-s.iqiyi.com/wnbf/get.html)<br>
 [免费字帖练习](https://paper.z2h.cn/)<br>
 [塔条工具箱](https://www.tatiao.com/)<br>
+[奇妙网站收藏家](https://fuun.fun)  有很多在线小游戏可以玩 <br>
 
 ---
 
@@ -100,6 +101,7 @@
 [musicenc](https://www.musicenc.com/)<br>
 [5sing](https://5sing.kugou.com/index.html)<br>
 [soundstripe](https://www.soundstripe.com/)<br>
+[一起听歌吧](https://music.alang.run/#/)  可在线和玩家一起听音乐 <br>
 
 ---
 
@@ -144,6 +146,7 @@
 
 ### 其他类
 
+[树洞网](https://dashudong.com/)<br>
 [字幕截图生成器](https://fake-screenshot-tau.vercel.app/)<br>
 [中文性教育资源网](https://res.knowsex.org/)<br>
 
