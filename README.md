@@ -46,11 +46,10 @@
 
 ### 影视类
 
-[NO视频](https://www.novipnoad.net)<br>
+[NO视频](https://www.novipnoad.net) $\color{red}{需要翻墙}$ <br>
 [爱奇艺，优酷，腾讯等全网视频解析](https://vip.superso.top/)<br>
 [看全世界的电视频道](https://www.cxtvlive.com)<br>
 [6v影视](https://www.xb6v.com)<br>
-[厂长资源](https://hao45.cc)<br>
 [努努影院](https://nnyy.in)<br>
 [freeok](https://freeok.pro)<br>
 [腐剧tv](https://www.fuju1.tv)<br>
