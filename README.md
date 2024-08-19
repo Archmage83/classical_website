@@ -8,6 +8,7 @@
 [考公真题库](https://www.gkzenti.cn)<br>
 [做题客](https://www.zuotike.com/)<br>
 [单词森林(背诵英语单词)](https://wordforest.cn)<br>
+[大学生资源网](https://www.dxzy163.com/) <br>
 
 ---
 
@@ -76,6 +77,7 @@
 [免费字帖练习](https://paper.z2h.cn/)<br>
 [塔条工具箱](https://www.tatiao.com/)<br>
 [奇妙网站收藏家](https://fuun.fun)  有很多在线小游戏可以玩 <br>
+[视频diy](https://www.spdiy.com/)<br>
 
 ---
 
@@ -149,5 +151,6 @@
 [树洞网](https://dashudong.com/)<br>
 [字幕截图生成器](https://fake-screenshot-tau.vercel.app/)<br>
 [中文性教育资源网](https://res.knowsex.org/)<br>
+[末日电台](https://frequency2156.com/)<br>
 
 ---
