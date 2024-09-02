@@ -77,6 +77,7 @@
 [塔条工具箱](https://www.tatiao.com/)<br>
 [奇妙网站收藏家](https://fuun.fun)  有很多在线小游戏可以玩 <br>
 [视频diy](https://www.spdiy.com/)<br>
+[视频在线压缩](https://tools.rotato.app/compress)<br>
 
 ---
 
