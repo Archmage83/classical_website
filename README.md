@@ -121,6 +121,12 @@
 [潘多拉盒子](https://www.inpandora.com)<br>
 [haxmac](https://haxmac.cc)<br>
 [元婴mac软件站](https://maczz.net)<br>
+[佛系软件](https://foxirj.com/)<br>
+[macked](https://macked.app/)<br>
+[xmac](https://xmac.app/)<br>
+[macserialjunkie 国外论坛](https://www.macserialjunkie.com/forum/viewforum.php?f=9)<br>
+[Minorpatch](https://www.minorpatch.com/)<br>
+[马克喵](https://www.macat.vip/)<br>
 
 ---
 
