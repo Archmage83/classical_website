@@ -127,6 +127,7 @@
 [macserialjunkie 国外论坛](https://www.macserialjunkie.com/forum/viewforum.php?f=9)<br>
 [Minorpatch](https://www.minorpatch.com/)<br>
 [马克喵](https://www.macat.vip/)<br>
+[macapp](https://macapp.org.cn/)<br>
 
 ---
 
