@@ -78,6 +78,7 @@
 [奇妙网站收藏家](https://fuun.fun)  有很多在线小游戏可以玩 <br>
 [视频diy](https://www.spdiy.com/)<br>
 [视频在线压缩](https://tools.rotato.app/compress)<br>
+[证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
 
 ---
 
@@ -104,6 +105,7 @@
 [5sing](https://5sing.kugou.com/index.html)<br>
 [soundstripe](https://www.soundstripe.com/)<br>
 [一起听歌吧](https://music.alang.run/#/)  可在线和玩家一起听音乐 <br>
+[音乐下载free MP3](https://freemp3cn.com/) <br>
 
 ---
 
