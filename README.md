@@ -56,7 +56,7 @@
 [vidhub](https://vidhub1.cc)<br>
 [寻剧吧](http://yxdm1.com)<br>
 [火狼影院](https://www.huolang.pro)<br>
-[胖虎影院](https://panghu.lol)<br>
+[胖虎影院](https://panghu.lol)  $\color{red}{需要翻墙}$ <br>
 [人人影视美剧](https://yyets.com)<br>
 [新电影导航](https://www.xdy.me/)<br>
 
