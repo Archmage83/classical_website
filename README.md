@@ -77,6 +77,9 @@
 [视频diy](https://www.spdiy.com/)<br>
 [视频在线压缩](https://tools.rotato.app/compress)<br>
 [证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
+[ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  $\color{red}{需要翻墙}$<br>
+[ALL TO ALL](https://www.alltoall.net) 在线格式转换，pdf等 <br>
+[Crop Image](https://cropimage.co/) 在线图片裁剪 <br>
 
 ---
 
@@ -86,6 +89,7 @@
 [AI聚合网站](https://www.toolify.ai/zh/category)<br>
 [免费AI网站](https://freeaihunter.com)<br>
 [AI创富导航](https://ai.itzb.net/)<br>
+[AI Short](https://www.aishort.top) <br>
 
 ---
 
