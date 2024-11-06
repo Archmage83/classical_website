@@ -77,7 +77,6 @@
 [视频diy](https://www.spdiy.com/)<br>
 [视频在线压缩](https://tools.rotato.app/compress)<br>
 [证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
-[ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  $\color{red}{需要翻墙}$<br>
 [ALL TO ALL](https://www.alltoall.net) 在线格式转换，pdf等 <br>
 [Crop Image](https://cropimage.co/) 在线图片裁剪 <br>
 
@@ -132,6 +131,13 @@
 [Minorpatch](https://www.minorpatch.com/)<br>
 [马克喵](https://www.macat.vip/)<br>
 [macapp](https://macapp.org.cn/)<br>
+
+---
+
+### Windows破解软件网站
+
+[423down](https://www.423down.com/)<br>
+[ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  $\color{red}{需要翻墙}$<br>
 
 ---
 
