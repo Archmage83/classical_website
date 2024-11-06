@@ -136,8 +136,9 @@
 
 ### Windows破解软件网站
 
-[423down](https://www.423down.com/)<br>
-[ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  $\color{red}{需要翻墙}$<br>
+[423down](https://www.423down.com/)  <br>
+[ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  $\color{red}{需要翻墙}$  <br>
+[TZ素材网](https://www.tzsucai.com/soft.html) <br>
 
 ---
 
