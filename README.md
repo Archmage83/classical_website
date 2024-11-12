@@ -58,8 +58,6 @@
 [新电影导航](https://www.xdy.me/) <br>
 [大师兄影视](https://dsxys.pro/) $\color{red}{需要翻墙}$ <br>
 [VIP视频链接解析](https://vip.superso.top/) <br>
-[腐剧tv](https://www.fuju1.tv)  $\color{red}{失效}$<br>
-[寻剧吧](http://yxdm1.com)  $\color{red}{失效}$<br>
 
 ---
 
