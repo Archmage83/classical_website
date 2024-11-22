@@ -37,7 +37,6 @@
 [秒搜](https://miaosou.fun/) $\color{orange}{推荐}$<br>
 [皮卡搜索](https://www.pikaso.top/) $\color{orange}{推荐}$<br>
 [咔帕搜索](https://www.cuppaso.com/)<br>
-[学霸盘](https://www.xuebapan.com) $\color{orange}{推荐}$<br>
 [猫狸盘搜](https://www.alipansou.com/)<br>
 [易搜](https://yiso.work/)<br>
 
