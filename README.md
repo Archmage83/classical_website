@@ -166,6 +166,19 @@
 
 ---
 
+### 程序员刷题网站
+
+[拼题A](https://pintia.cn)<br>
+[LintCode](https://www.lintcode.com)<br>
+[计蒜客](https://www.jisuanke.com)<br>
+[洛谷](https://www.luogu.com.cn)<br>
+[Virtual Judge](http://vjudge.net)<br>
+[牛客网](https://www.nowcoder.com/exam/company)<br>
+[LeetCode](https://leetcode.cn)<br>
+[TopCoder全球程序员竞赛网](https://www.topcoder.com)<br>
+
+---
+
 ### 其他类
 
 [树洞网](https://dashudong.com/)<br>
