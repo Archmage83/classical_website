@@ -24,7 +24,6 @@
 
 ### 资源类
 
-[全网盘搜索](http://uukk2.cn)<br>
 [毕方铺](https://www.iizhi.cn) **(需购买金币)** <br>
 [羚羊阁资源搜索](https://files.ptger.cn/)<br>
 [Poly Haven  3d素材资源网](https://polyhaven.com/zh)<br>
@@ -92,12 +91,6 @@
 
 ---
 
-### 游戏类
-
-[switch游戏，PC游戏，PS游戏免费下载](https://www.gamer520.com)<br>
-[PC游戏，单机游戏等多种游戏白嫖](https://www.flysheep6.com/)<br>
-
----
 
 ### 广播音乐类
 
@@ -141,6 +134,7 @@
 [TZ素材网](https://www.tzsucai.com/soft.html) <br>
 [绿软小站](https://www.gndown.com/) $\color{red}{需要翻墙}$ <br>
 [数字人民币](https://itrmb.com/) <br>
+[大眼仔](https://www.dayanzai.me/)<br>
 
 ---
 
@@ -157,6 +151,7 @@
 ### 破解类
 
 [激活windows，office](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
+[KMS激活](https://kms.cx/)<br>
 
 ---
 
@@ -185,5 +180,7 @@
 [字幕截图生成器](https://fake-screenshot-tau.vercel.app/)<br>
 [中文性教育资源网](https://res.knowsex.org/)<br>
 [末日电台](https://frequency2156.com/)<br>
+[装X水印照片](https://picseal.zhiweio.me/)<br>
+[古诗连词游戏](https://poetrystrands.com/zh)<br>
 
 ---
