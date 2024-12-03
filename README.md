@@ -78,6 +78,8 @@
 [证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
 [ALL TO ALL](https://www.alltoall.net) 在线格式转换，pdf等 <br>
 [Crop Image](https://cropimage.co/) 在线图片裁剪 <br>
+[万能命令](https://wannengrun.org/zh/) 可查看每个站点的工具 <br>
+[上线啦](http://www.sxl.cn/s#/) 在线制作网页 <br>
 
 ---
 
