@@ -74,6 +74,7 @@
 [塔条工具箱](https://www.tatiao.com/)<br>
 [奇妙网站收藏家](https://fuun.fun)  有很多在线小游戏可以玩 <br>
 [视频diy](https://www.spdiy.com/)<br>
+[FreeCompress](https://freecompress.com/zh-cn) 全能的在线压缩网站 <br>
 [视频在线压缩](https://tools.rotato.app/compress)<br>
 [证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
 [ALL TO ALL](https://www.alltoall.net) 在线格式转换，pdf等 <br>
