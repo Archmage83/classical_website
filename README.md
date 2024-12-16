@@ -38,6 +38,7 @@
 [咔帕搜索](https://www.cuppaso.com/)<br>
 [猫狸盘搜](https://www.alipansou.com/)<br>
 [易搜](https://yiso.work/)<br>
+[kkkob数据搜索](http://www.kkkob.com/app/index.html)<br>
 
 ---
 
