@@ -83,6 +83,9 @@
 [万能命令](https://wannengrun.org/zh/) 可查看每个站点的工具 <br>
 [上线啦](http://www.sxl.cn/s#/) 在线制作网页 <br>
 [PaywallBuster](https://paywallbuster.com) 一款帮助用户绕过文章付费墙的免费工具<br>
+[隐私图片压缩](https://compressimage.cn/zh-CN) 在线压缩图片<br>
+[EasyResizer](https://easyresizer.com/zh-cn/) 在线调整图片尺寸 <br>
+[蛙蛙工具](https://www.iamwawa.cn/) 提供多种在线实用工具的网站，包括文本工具、语言工具、财务工具、日期时间工具、转换工具、便民查询、开发工具、编码解码工具以及网络工具等。<br>
 
 ---
 
@@ -137,6 +140,7 @@
 
 [423down](https://www.423down.com/)  <br>
 [ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  $\color{red}{需要翻墙}$  <br>
+[极简系统](https://www.sysmini.com) win7-11纯净版系统下载<br>
 [TZ素材网](https://www.tzsucai.com/soft.html) <br>
 [绿软小站](https://www.gndown.com/) $\color{red}{需要翻墙}$ <br>
 [数字人民币](https://itrmb.com/) <br>
