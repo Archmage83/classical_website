@@ -26,7 +26,7 @@
 
 ### 资源类
 
-[图欧学习导航](https://tuostudy.upnb.top/) $\color{orange}{推荐}$<br>
+[图欧学习导航](https://tuostudy.upnb.top/) **$\color{orange}{推荐}$**<br>
 [毕方铺](https://www.iizhi.cn) **(需购买金币)** <br>
 [羚羊阁资源搜索](https://files.ptger.cn/)<br>
 [Poly Haven  3d素材资源网](https://polyhaven.com/zh)<br>
@@ -36,8 +36,8 @@
 [奇乐搜](https://www.qileso.com/)<br>
 [人人影视网](https://www.rrdynb.com/index.html)<br>
 [橘子盘搜](https://www.nmme.xyz/)<br>
-[秒搜](https://miaosou.fun/) $\color{orange}{推荐}$<br>
-[皮卡搜索](https://www.pikaso.top/) $\color{orange}{推荐}$<br>
+[秒搜](https://miaosou.fun/) **$\color{orange}{推荐}$**<br>
+[皮卡搜索](https://www.pikaso.top/) **$\color{orange}{推荐}$**<br>
 [咔帕搜索](https://www.cuppaso.com/)<br>
 [猫狸盘搜](https://www.alipansou.com/)<br>
 [易搜](https://yiso.work/)<br>
@@ -48,17 +48,17 @@
 
 ### 影视类
 
-[NO视频](https://www.novipnoad.net) $\color{red}{需要翻墙}$ <br>
+[NO视频](https://www.novipnoad.net) **$\color{red}{需要翻墙}$** <br>
 [爱看机器人](https://v.ikanbot.com/) <br>
 [爱奇艺，优酷，腾讯等全网视频解析](https://vip.superso.top/)<br>
 [看全世界的电视频道](https://www.cxtvlive.com)<br>
 [6v影视](https://www.xb6v.com)<br>
 [vidhub](https://vidhub1.cc)<br>
 [火狼影院](https://www.huolang.pro)<br>
-[胖虎影院](https://panghu.lol)  $\color{red}{需要翻墙}$ <br>
+[胖虎影院](https://panghu.lol)  **$\color{red}{需要翻墙}$** <br>
 [人人影视美剧](https://yyets.com) <br>
 [新电影导航](https://www.xdy.me/) <br>
-[大师兄影视](https://dsxys.pro/) $\color{red}{需要翻墙}$ <br>
+[大师兄影视](https://dsxys.pro/) **$\color{red}{需要翻墙}$** <br>
 [VIP视频链接解析](https://vip.superso.top/) <br>
 
 ---
@@ -135,17 +135,17 @@
 [Minorpatch](https://www.minorpatch.com/)<br>
 [马克喵](https://www.macat.vip/)<br>
 [macapp](https://macapp.org.cn/)<br>
-[移花接木Mac资源站](https://www.mac-gm.com/) $\color{orange}{推荐}$<br>
+[移花接木Mac资源站](https://www.mac-gm.com/) **$\color{orange}{推荐}$**<br>
 
 ---
 
 ### Windows破解软件网站
 
 [423down](https://www.423down.com/)  <br>
-[ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  $\color{red}{需要翻墙}$  <br>
+[ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  **$\color{red}{需要翻墙}$**  <br>
 [极简系统](https://www.sysmini.com) win7-11纯净版系统下载<br>
 [TZ素材网](https://www.tzsucai.com/soft.html) <br>
-[绿软小站](https://www.gndown.com/) $\color{red}{需要翻墙}$ <br>
+[绿软小站](https://www.gndown.com/) **$\color{red}{需要翻墙}$** <br>
 [数字人民币](https://itrmb.com/) <br>
 [大眼仔](https://www.dayanzai.me/)<br>
 
