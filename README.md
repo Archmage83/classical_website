@@ -26,6 +26,7 @@
 
 ### 资源类
 
+[图欧学习导航](https://tuostudy.upnb.top/) $\color{orange}{推荐}$<br>
 [毕方铺](https://www.iizhi.cn) **(需购买金币)** <br>
 [羚羊阁资源搜索](https://files.ptger.cn/)<br>
 [Poly Haven  3d素材资源网](https://polyhaven.com/zh)<br>
