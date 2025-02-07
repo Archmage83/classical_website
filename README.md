@@ -42,6 +42,7 @@
 [猫狸盘搜](https://www.alipansou.com/)<br>
 [易搜](https://yiso.work/) **$\color{red}{需要翻墙}$**<br>
 [kkkob数据搜索](http://www.kkkob.com/app/index.html)<br>
+[热门影视剧网盘资源](https://www.kdocs.cn/l/cmMwFCwIMSdc)<br>
 
 ---
 
