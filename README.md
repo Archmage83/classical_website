@@ -112,6 +112,7 @@
 [soundstripe](https://www.soundstripe.com/)<br>
 [一起听歌吧](https://music.alang.run/#/)  可在线和玩家一起听音乐 <br>
 [音乐下载free MP3](https://freemp3cn.com/) <br>
+[无损控资源](https://wusunk.com/) 音乐资源下载<br>
 
 ---
 
