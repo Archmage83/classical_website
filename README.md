@@ -54,7 +54,6 @@
 [看全世界的电视频道](https://www.cxtvlive.com)<br>
 [6v影视](https://www.xb6v.com)<br>
 [vidhub](https://vidhub1.cc)<br>
-[火狼影院](https://www.huolang.pro)<br>
 [胖虎影院](https://panghu.lol)  **$\color{red}{需要翻墙}$** <br>
 [人人影视美剧](https://yyets.com) <br>
 [新电影导航](https://www.xdy.me/) <br>
