@@ -197,3 +197,7 @@
 [古诗连词游戏](https://poetrystrands.com/zh)<br>
 
 ---
+
+### 网盘链接类
+
+[全球·明星演唱会·合集【珍藏版】](https://pan.quark.cn/s/9776e854ddc3)
