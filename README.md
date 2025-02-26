@@ -209,6 +209,12 @@
 [2024注册会计全程班](https://pan.quark.cn/s/dd9f08632335)<br>
 [税务师区](https://pan.quark.cn/s/9db3e74104be)<br>
 [教资专区](https://pan.quark.cn/s/a3c725e19113)<br>
+[最新电影TOP250部](https://drive.uc.cn/s/e71a269a66984)<br>
+[游戏内购合集资源](https://drive.uc.cn/s/e4aa4fe4ac754)<br>
+[电影合集](https://drive.uc.cn/s/4ee1d90f00aa4)<br>
+[电视剧](https://drive.uc.cn/s/0ae461df40c64)<br>
+[纪录片](https://drive.uc.cn/s/f74e5258153b4)<br>
+[动漫影片合集](https://drive.uc.cn/s/e22c21259d5c4)<br>
 
 ---
 
