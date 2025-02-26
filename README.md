@@ -200,4 +200,16 @@
 
 ### 网盘链接类
 
-[全球·明星演唱会·合集【珍藏版】](https://pan.quark.cn/s/9776e854ddc3)
+[全球·明星演唱会·合集【珍藏版】](https://pan.quark.cn/s/9776e854ddc3)<br>
+[2025国考省考资料包合集](https://pan.quark.cn/s/f63478fa75bc)<br>
+[大学专区](https://pan.quark.cn/s/31d5d64f66d5)<br>
+[考研专区](https://pan.quark.cn/s/6bd792a53927)<br>
+[法考专区](https://pan.quark.cn/s/ef7232997354)<br>
+[执业医师](https://pan.quark.cn/s/d25fa4d83277)<br>
+[2024注册会计全程班](https://pan.quark.cn/s/dd9f08632335)<br>
+[税务师区](https://pan.quark.cn/s/9db3e74104be)<br>
+[教资专区](https://pan.quark.cn/s/a3c725e19113)<br>
+
+---
+
+
