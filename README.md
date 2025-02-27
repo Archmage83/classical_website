@@ -215,6 +215,8 @@
 [电视剧](https://drive.uc.cn/s/0ae461df40c64)<br>
 [纪录片](https://drive.uc.cn/s/f74e5258153b4)<br>
 [动漫影片合集](https://drive.uc.cn/s/e22c21259d5c4)<br>
+[⭐11部4K原盘收藏级纪录片【205GB】](https://pan.quark.cn/s/9cb5f2a06d0e)<br>
+[近几年国外惊悚电影合集](https://pan.quark.cn/s/76f7836a042d)<br>
 
 ---
 
