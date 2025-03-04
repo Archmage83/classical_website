@@ -59,6 +59,7 @@
 [新电影导航](https://www.xdy.me/) <br>
 [大师兄影视](https://dsxys.pro/) **$\color{red}{需要翻墙}$** <br>
 [VIP视频链接解析](https://vip.superso.top/) <br>
+[MP4电影](https://mp4.z6.net.cn/) **$\color{orange}{推荐}$**<br>
 
 ---
 
