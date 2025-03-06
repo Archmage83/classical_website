@@ -12,7 +12,6 @@
 [金榜题名考研考公资料](http://qzbltushu.ysepan.com/) <br>
 [问答库](https://www.asklib.com/) <br>
 [英语真题在线](https://zhenti.burningvocabulary.cn/) <br>
-[问答库](https://www.asklib.com/) <br>
 
 ---
 
