@@ -169,6 +169,7 @@
 [Open Doodles 免费插画网站](https://opendoodles.com/)<br>
 [vectorcraftr 免费插画网站](https://vectorcraftr.com/)<br>
 [字体搬运工](https://font.sucai999.com/)<br>
+[Icons8](https://icons8.com/icons/new)<br>
 
 ---
 
