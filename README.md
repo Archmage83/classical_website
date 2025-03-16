@@ -64,7 +64,7 @@
 [看全世界的电视频道](https://www.cxtvlive.com)<br>
 [6v影视](https://www.xb6v.com)<br>
 [vidhub](https://vidhub1.cc)<br>
-[胖虎影院](https://panghu.lol)  **$\color{red}{需要翻墙}$** <br>
+[胖虎影院](https://panghu.lol) **$\color{red}{需要翻墙}$** <br>
 [人人影视美剧](https://yyets.com) <br>
 [新电影导航](https://www.xdy.me/) <br>
 [大师兄影视](https://dsxys.pro/) **$\color{red}{需要翻墙}$** <br>
@@ -134,12 +134,12 @@
 [Mac8k](https://www.mac8k.com)<br>
 [Appstorrent](https://appstorrent.ru)<br>
 [Mac帮](https://macbang.net)<br>
-[digit77(密码digit77.com)](https://www.digit77.com) **$\color{orange}{推荐}$**<br><br>
+[digit77(密码digit77.com)](https://www.digit77.com) **$\color{orange}{推荐}$**<br>
 [imacapp](https://www.imacapp.cn)<br>
 [潘多拉盒子](https://www.inpandora.com)<br>
 [haxmac](https://haxmac.cc)<br>
-[佛系软件](https://foxirj.com/) **$\color{orange}{推荐}$**<br><br>
-[macked](https://macked.app/) **$\color{orange}{推荐}$**<br><br>
+[佛系软件](https://foxirj.com/) **$\color{orange}{推荐}$**<br>
+[macked](https://macked.app/) **$\color{orange}{推荐}$**<br>
 [xmac](https://xmac.app/)<br>
 [macserialjunkie 国外论坛](https://www.macserialjunkie.com/forum/viewforum.php?f=9)<br>
 [Minorpatch](https://www.minorpatch.com/)<br>
