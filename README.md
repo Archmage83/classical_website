@@ -134,12 +134,12 @@
 [Mac8k](https://www.mac8k.com)<br>
 [Appstorrent](https://appstorrent.ru)<br>
 [Mac帮](https://macbang.net)<br>
-[digit77(密码digit77.com)](https://www.digit77.com)<br>
+[digit77(密码digit77.com)](https://www.digit77.com) **$\color{orange}{推荐}$**<br><br>
 [imacapp](https://www.imacapp.cn)<br>
 [潘多拉盒子](https://www.inpandora.com)<br>
 [haxmac](https://haxmac.cc)<br>
-[佛系软件](https://foxirj.com/)<br>
-[macked](https://macked.app/)<br>
+[佛系软件](https://foxirj.com/) **$\color{orange}{推荐}$**<br><br>
+[macked](https://macked.app/) **$\color{orange}{推荐}$**<br><br>
 [xmac](https://xmac.app/)<br>
 [macserialjunkie 国外论坛](https://www.macserialjunkie.com/forum/viewforum.php?f=9)<br>
 [Minorpatch](https://www.minorpatch.com/)<br>
