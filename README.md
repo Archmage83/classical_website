@@ -53,6 +53,7 @@
 [kkkob数据搜索](http://www.kkkob.com/app/index.html)<br>
 [热门影视剧网盘资源](https://www.kdocs.cn/l/cmMwFCwIMSdc)<br>
 [Pirate Bay Proxy](https://piratebayproxy.net/zh/) **$\color{red}{需要翻墙,将中文名翻译成英文再搜索}$** <br>
+[Yandex搜索](https://yandex.com/) **$\color{red}{需要翻墙}$**<br>
 
 ---
 
