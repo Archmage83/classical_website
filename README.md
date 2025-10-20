@@ -157,7 +157,7 @@
 
 [423down](https://www.423down.com/)  <br>
 [ITELLYOU](https://next.itellyou.cn) windows,mac,linux各种镜像下载  **$\color{red}{需要翻墙}$**  <br>
-[极简系统](https://www.sysmini.com) win7-11纯净版系统下载<br>
+[极简系统](https://www.sysmini.com) win7-11纯净版系统下载 **$\color{red}{需要翻墙}$** <br>
 [TZ素材网](https://www.tzsucai.com/soft.html) <br>
 [绿软小站](https://www.gndown.com/) **$\color{red}{需要翻墙}$** <br>
 [数字人民币](https://itrmb.com/) <br>
