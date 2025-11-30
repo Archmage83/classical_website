@@ -46,8 +46,6 @@
 [奇乐搜](https://www.qileso.com/)<br>
 [人人影视网](https://www.rrdynb.com/index.html)<br>
 [橘子盘搜](https://www.nmme.xyz/) **$\color{red}{需要翻墙}$**<br>
-[秒搜](https://miaosou.fun/) **$\color{orange}{推荐}$**<br>
-[皮卡搜索](https://www.pikaso.top/) **$\color{orange}{推荐}$**<br>
 [咔帕搜索](https://www.cuppaso.com/)<br>
 [猫狸盘搜](https://www.alipansou.com/)<br>
 [kkkob数据搜索](http://www.kkkob.com/app/index.html)<br>
