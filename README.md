@@ -103,6 +103,7 @@
 [蛙蛙工具](https://www.iamwawa.cn/) 提供多种在线实用工具的网站，包括文本工具、语言工具、财务工具、日期时间工具、转换工具、便民查询、开发工具、编码解码工具以及网络工具等。<br>
 [VERT](https://vert.sh/)  在线文件转换<br>
 [iFixit 免费维修手册](https://zh.ifixit.com) <br>
+[archive](https://archive.md/) 解锁需要收费的文档 **$\color{red}{需要翻墙}$** <br>
 
 ---
 
