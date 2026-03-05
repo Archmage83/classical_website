@@ -70,8 +70,9 @@
 [大师兄影视](https://dsxys.pro/) **$\color{red}{需要翻墙}$** <br>
 [VIP视频链接解析](https://vip.superso.top/) <br>
 [MP4电影](https://mp4.z6.net.cn/) **$\color{orange}{推荐}$**<br>
-[低端影视](https://ddys.pro/) <br>
+[低端影视](https://ddys.la/) <br>
 [共青春](https://gqc.ink/) <br>
+[SeedHub](https://www.seedhub.cc/) <br>
 
 ---
 
@@ -121,12 +122,11 @@
 ### 广播音乐类
 
 [思奥FM](https://sao.fm)<br>
-[musicenc](https://www.musicenc.com/)<br>
 [5sing](https://5sing.kugou.com/index.html)<br>
 [soundstripe](https://www.soundstripe.com/)<br>
 [一起听歌吧](https://music.alang.run/#/)  可在线和玩家一起听音乐 <br>
-[音乐下载free MP3](https://freemp3cn.com/) <br>
 [无损控资源](https://wusunk.com/) 音乐资源下载<br>
+[Alger Music](http://music.alger.fun/#/) <br>
 
 ---
 
@@ -165,6 +165,7 @@
 [数字人民币](https://itrmb.com/) <br>
 [大眼仔](https://www.dayanzai.me/)<br>
 [dll-files](https://www.dll-files.com/) 下载windows缺失的各种dll文件 **$\color{red}{需要翻墙}$** <br>
+[软仓](https://www.ruancang.net/) **$\color{orange}{推荐}$**<br>
 
 ---
 
