@@ -33,12 +33,10 @@
 ### 资源类
 
 [图欧学习导航](https://tuostudy.upnb.top/) **$\color{orange}{推荐}$**<br>
-[毕方铺](https://www.iizhi.cn) **(需购买金币)** <br>
 [羚羊阁资源搜索](https://files.ptger.cn/)<br>
 [Poly Haven  3d素材资源网](https://polyhaven.com/zh)<br>
 [资源网](https://heeee.com/)<br>
 [一糖导航](https://iitang.com/#google_vignette)<br>
-[西部落](https://www.xibuluo.com/)<br>
 [奇乐搜](https://www.qileso.com/)<br>
 [人人影视网](https://www.rrdynb.com/index.html)<br>
 [橘子盘搜](https://www.nmme.xyz/) **$\color{red}{需要翻墙}$**<br>
@@ -48,6 +46,9 @@
 [热门影视剧网盘资源](https://www.kdocs.cn/l/cmMwFCwIMSdc)<br>
 [Pirate Bay Proxy](https://piratebayproxy.net/zh/) **$\color{red}{需要翻墙,将中文名翻译成英文再搜索}$** <br>
 [Yandex搜索](https://yandex.com/) **$\color{red}{需要翻墙}$**<br>
+[影视飓风](https://www.ysjf.com/home) 提供大厂拍摄的免费可商用的视频和图片素材 <br>
+[pixabay](https://www.ysjf.com/home) 提供大厂拍摄的免费可商用的视频和图片素材 <br>
+[影视飓风](https://pixabay.com/zh/images/search/) 国外提供各类插图的绿色网站 <br>
 
 ---
 
@@ -78,20 +79,13 @@
 [在线录屏网站](https://gemoo.com/tools/online-recorder/)<br>
 [扒网站工具](http://www.templatespider.zvo.cn)<br>
 [千盒工具](https://1000tool.com/)<br>
-[即时热点网](https://nowhots.com)<br>
-[暖糖壁纸](https://www.nuantang.net)<br>
-[在线编辑照片](https://shoteasy.fun/zh-CN/)<br>
-[在线智能配色](https://www.realtimecolors.com)<br>
-[爱奇艺万能联播](http://static-s.iqiyi.com/wnbf/get.html)<br>
 [免费字帖练习](https://paper.z2h.cn/)<br>
 [塔条工具箱](https://www.tatiao.com/)<br>
 [奇妙网站收藏家](https://fuun.fun)  有很多在线小游戏可以玩 <br>
 [视频diy](https://www.spdiy.com/)<br>
 [FreeCompress](https://freecompress.com/zh-cn) 全能的在线压缩网站 <br>
 [视频在线压缩](https://tools.rotato.app/compress)<br>
-[证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
 [ALL TO ALL](https://www.alltoall.net) 在线格式转换，pdf等 <br>
-[Crop Image](https://cropimage.co/) 在线图片裁剪 <br>
 [万能命令](https://wannengrun.org/zh/) 可查看每个站点的工具 <br>
 [上线啦](http://www.sxl.cn/s#/) 在线制作网页 <br>
 [PaywallBuster](https://paywallbuster.com) 一款帮助用户绕过文章付费墙的免费工具<br>
@@ -101,6 +95,17 @@
 [VERT](https://vert.sh/)  在线文件转换<br>
 [iFixit 免费维修手册](https://zh.ifixit.com) <br>
 [archive](https://archive.md/) 解锁需要收费的文档 **$\color{red}{需要翻墙}$** <br>
+
+---
+
+### 图像壁纸类
+
+[暖糖壁纸](https://www.nuantang.net) <br>
+[haowallpaper](https://haowallpaper.com/) <br>
+[在线编辑照片](https://shoteasy.fun/zh-CN/)<br>
+[在线智能配色](https://www.realtimecolors.com)<br>
+[证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
+[Crop Image](https://cropimage.co/) 在线图片裁剪 <br>
 
 ---
 
