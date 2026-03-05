@@ -47,8 +47,7 @@
 [Pirate Bay Proxy](https://piratebayproxy.net/zh/) **$\color{red}{需要翻墙,将中文名翻译成英文再搜索}$** <br>
 [Yandex搜索](https://yandex.com/) **$\color{red}{需要翻墙}$**<br>
 [影视飓风](https://www.ysjf.com/home) 提供大厂拍摄的免费可商用的视频和图片素材 <br>
-[pixabay](https://www.ysjf.com/home) 提供大厂拍摄的免费可商用的视频和图片素材 <br>
-[影视飓风](https://pixabay.com/zh/images/search/) 国外提供各类插图的绿色网站 <br>
+[pixabay](https://pixabay.com/zh/images/search/) 国外提供各类插图的绿色网站 <br>
 
 ---
 
@@ -101,7 +100,7 @@
 ### 图像壁纸类
 
 [暖糖壁纸](https://www.nuantang.net) <br>
-[haowallpaper](https://haowallpaper.com/) <br>
+[haowallpaper](https://haowallpaper.com/) 一个非常全的壁纸下载网站 <br>
 [在线编辑照片](https://shoteasy.fun/zh-CN/)<br>
 [在线智能配色](https://www.realtimecolors.com)<br>
 [证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
