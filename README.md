@@ -16,21 +16,17 @@
 ---
 
 ### 小说文章类
-  
-[易书 书籍检索](https://search.yibook.org/) <br>
-[我不是盐神](https://onehu.xyz/)<br>
+
+[我不是盐神](https://onehu.xyz/) <br>
 [24h搜书网](https://24hbook.com/) <br>
-[书书读小说](https://www.shushudu.com/)<br>
-[飞速中文网](https://m.feibzw.com)<br>
-[鸠摩搜书](https://www.jiumodiary.com/)<br>
-[书格](https://new.shuge.org/)<br>
-[苦瓜书盘](https://www.kgbook.com/)<br>
-[知识库](https://www.zhishikoo.com/)<br>
-[PDF之家](https://homeofpdf.com/)<br>
-[云海电子图书馆](http://www.pdfbook.cn/)<br>
-[八零电子书](http://www.ebook80.com/)<br>
-[雅书](https://yabook.org/)<br>
-[SoBooks](https://sobooks.cc/)<br>
+[鸠摩搜书](https://www.jiumodiary.com/) <br>
+[书格](https://new.shuge.org/) <br>
+[苦瓜书盘](https://www.kgbook.com/) <br>
+[知识库](https://www.zhishikoo.com/) <br>
+[PDF之家](https://homeofpdf.com/) <br>
+[电子书之家](https://honeypdf.com/) <br>
+[SoBooks](https://sobooks.cc/) <br>
+[可阅文学](https://www.kepub.net/) <br>
 
 ---
 
