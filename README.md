@@ -12,6 +12,7 @@
 [金榜题名考研考公资料](http://qzbltushu.ysepan.com/) <br>
 [问答库](https://www.asklib.com/) <br>
 [英语真题在线](https://zhenti.burningvocabulary.cn/) <br>
+[学霸盘](https://www.xuebapan.com/)<br>
 
 ---
 
@@ -42,12 +43,17 @@
 [橘子盘搜](https://www.nmme.xyz/) **$\color{red}{需要翻墙}$**<br>
 [咔帕搜索](https://www.cuppaso.com/)<br>
 [猫狸盘搜](https://www.alipansou.com/)<br>
+[秒搜](https://miaosou.fun)<br>
+[热盘搜](https://repanso.net/) <br>
+[珈珈搜索](https://feapi.xyz/) **$\color{orange}{推荐}$**<br>
+[V盘搜](http://www.vpansou.com/) <br>
 [kkkob数据搜索](http://www.kkkob.com/app/index.html)<br>
 [热门影视剧网盘资源](https://www.kdocs.cn/l/cmMwFCwIMSdc)<br>
 [Pirate Bay Proxy](https://piratebayproxy.net/zh/) **$\color{red}{需要翻墙,将中文名翻译成英文再搜索}$** <br>
 [Yandex搜索](https://yandex.com/) **$\color{red}{需要翻墙}$**<br>
 [影视飓风](https://www.ysjf.com/home) 提供大厂拍摄的免费可商用的视频和图片素材 <br>
 [pixabay](https://pixabay.com/zh/images/search/) 国外提供各类插图的绿色网站 <br>
+[网盘分享](https://wpfx.org.cn/)<br>
 
 ---
 
