@@ -66,8 +66,6 @@
 [看全世界的电视频道](https://www.cxtvlive.com)<br>
 [6v影视](https://www.xb6v.com)<br>
 [vidhub](https://vidhub1.cc)<br>
-[胖虎影院](https://panghu.lol) **$\color{red}{需要翻墙}$** <br>
-[人人影视美剧](https://yyets.com) <br>
 [新电影导航](https://www.xdy.me/) <br>
 [大师兄影视](https://dsxys.pro/) **$\color{red}{需要翻墙}$** <br>
 [VIP视频链接解析](https://vip.superso.top/) <br>
