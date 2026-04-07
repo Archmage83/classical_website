@@ -104,6 +104,7 @@
 [VERT](https://vert.sh/)  在线文件转换<br>
 [iFixit 免费维修手册](https://zh.ifixit.com) <br>
 [archive](https://archive.md/) 解锁需要收费的文档 **$\color{red}{需要翻墙}$** <br>
+[大小哈工具](https://www.quanxiaoha.com/tools/) <br>
 
 ---
 
