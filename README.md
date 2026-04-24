@@ -112,11 +112,12 @@
 ### 图像壁纸类
 
 [暖糖壁纸](https://www.nuantang.net) <br>
-[haowallpaper](https://haowallpaper.com/) 一个非常全的壁纸下载网站 <br>
+[哲风壁纸](https://haowallpaper.com/) 一个非常全的壁纸下载网站 <br>
 [在线编辑照片](https://shoteasy.fun/zh-CN/)<br>
 [在线智能配色](https://www.realtimecolors.com)<br>
 [证件照在线制作](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)<br>
 [Crop Image](https://cropimage.co/) 在线图片裁剪 <br>
+[Wallpaper Gallery](https://wallpaper.061129.xyz/desktop) <br>
 
 ---
 
