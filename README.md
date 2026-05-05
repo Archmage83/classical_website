@@ -63,13 +63,10 @@
 
 [NO视频](https://www.novipnoad.net) **$\color{red}{需要翻墙}$** <br>
 [爱看机器人](https://v.ikanbot.com/) <br>
-[爱奇艺，优酷，腾讯等全网视频解析](https://vip.superso.top/)<br>
 [看全世界的电视频道](https://www.cxtvlive.com)<br>
 [6v影视](https://www.xb6v.com)<br>
 [vidhub](https://vidhub1.cc)<br>
 [新电影导航](https://www.xdy.me/) <br>
-[大师兄影视](https://dsxys.pro/) **$\color{red}{需要翻墙}$** <br>
-[VIP视频链接解析](https://vip.superso.top/) <br>
 [MP4电影](https://mp4.z6.net.cn/) **$\color{orange}{推荐}$**<br>
 [低端影视](https://ddys.la/) <br>
 [共青春](https://gqc.ink/) <br>
@@ -80,6 +77,8 @@
 ### 视频解析类
 
 [Green Video](https://greenvideo.cc/) <br>
+[VIP视频链接解析](https://vip.superso.top/) <br>
+[爱奇艺，优酷，腾讯等全网视频解析](https://vip.superso.top/)<br>
 
 ---
 
@@ -106,6 +105,7 @@
 [iFixit 免费维修手册](https://zh.ifixit.com) <br>
 [archive](https://archive.md/) 解锁需要收费的文档 **$\color{red}{需要翻墙}$** <br>
 [大小哈工具](https://www.quanxiaoha.com/tools/) <br>
+[浮云梦工具](https://fuym.cn/) 免费文字转语音 <br>
 
 ---
 
