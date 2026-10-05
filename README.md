@@ -155,7 +155,7 @@
 [Mac8k](https://www.mac8k.com)<br>
 [Appstorrent](https://appstorrent.ru)<br>
 [Mac帮](https://macbang.net)<br>
-[digit77(密码digit77.com)](https://www.digit77.com) **$\color{orange}{推荐}$**<br>
+[digit77](https://www.digit77.com) (密码digit77.com)**$\color{orange}{推荐}$**<br>
 [imacapp](https://www.imacapp.cn)<br>
 [潘多拉盒子](https://www.inpandora.com)<br>
 [haxmac](https://haxmac.cc)<br>
